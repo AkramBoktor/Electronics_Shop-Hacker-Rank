@@ -1,0 +1,7 @@
+C:\Users\Akram\Desktop\HackerRank\Day7\Electronics Shop\bin\Debug\Electronics Shop.exe.config
+C:\Users\Akram\Desktop\HackerRank\Day7\Electronics Shop\bin\Debug\Electronics Shop.exe
+C:\Users\Akram\Desktop\HackerRank\Day7\Electronics Shop\bin\Debug\Electronics Shop.pdb
+C:\Users\Akram\Desktop\HackerRank\Day7\Electronics Shop\obj\Debug\Electronics Shop.csprojAssemblyReference.cache
+C:\Users\Akram\Desktop\HackerRank\Day7\Electronics Shop\obj\Debug\Electronics Shop.csproj.CoreCompileInputs.cache
+C:\Users\Akram\Desktop\HackerRank\Day7\Electronics Shop\obj\Debug\Electronics Shop.exe
+C:\Users\Akram\Desktop\HackerRank\Day7\Electronics Shop\obj\Debug\Electronics Shop.pdb
